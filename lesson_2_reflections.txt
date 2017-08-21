@@ -1,0 +1,16 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+it creates folder named .git
+this line is for test
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging area is tracked by git, while there may be files in the working directory not tracked
+3.How can you use the staging area to make sure you have one commit per logical change?
+i add the change to staging area and then commit it
+this line is after creating branch1
+4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when we make something experimental branch is good
+5.How do the diagrams help you visualize the branch structure?
+it did not help
+6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+No Answer
+7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+no answer
